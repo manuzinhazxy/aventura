@@ -14,3 +14,9 @@ button {
     color: white;
     font-family: "Modak", system-ui;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo
